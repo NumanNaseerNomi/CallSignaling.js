@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/NumanNaseerNomi/CallSignaling.js/issues"
   },
-  "homepage": "https://github.com/NumanNaseerNomi/CallSignaling.js#readme"
+  "homepage": "https://github.com/NumanNaseerNomi/CallSignaling.js#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
 }
